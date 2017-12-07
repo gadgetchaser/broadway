@@ -1,3 +1,41 @@
 body {
+    font-family: Helvetica, sans-serif;
+    text-align: center;
+    display: block;
+}
+
+footer {
+    font-size: 11px;
+    background-color: dimgray;
+    color: white;
+    text-align: left;
     
+}
+
+h1 {
+  font-size: 70px;
+  color: white;
+}
+
+
+a:link {
+    color: white;
+}
+
+a:visited {
+    color: white;
+}
+
+.banner a {
+    display: block;
+}
+
+.banner {
+    background-image: url("/resources/images/flatiron.png");
+        
+}
+
+#designed {
+    background-image: url("/resources/images/flatiron.png");
+    color: white;
 }
