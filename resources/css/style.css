@@ -31,11 +31,12 @@ a:visited {
 }
 
 .banner {
-    background-image: url("./resources/images/flatiron.png");
+    background-image: url("https://github.com/gadgetchaser/broadway/tree/master/resources/images/flatiron.png")
+    /* background-image: url("http://github.com/gadgetchaser/broadway/resources/images/flatiron.png"); */
         
 }
 
 #designed {
-    background-image: url("./resources/images/flatiron.png");
+    background-image: url("/resources/images/flatiron.png");
     color: white;
 }
